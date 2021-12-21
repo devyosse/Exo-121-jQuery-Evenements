@@ -65,7 +65,7 @@ remplacer également "event" pour capturer le DOUBLE click sur l'élément
 - Il est possible d'attacher plusieurs écouteurs d'événement à un élément html :
 
 $("#test").on({
-    hover: function(){
+    hover: function(){p
         //du code
     },
     click: function(){
